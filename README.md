@@ -217,7 +217,9 @@ Yes. Saves should continue loading without it.
 
 ### Is this AI upscaled?
 
-The textures are HD replacement versions made to stay close to the original Factorio style. The goal is cleaner vanilla-style detail, not a full art-style replacement.
+Yes. These textures were created using AI upscaling as part of the workflow, then manually reviewed and worked on further in Photoshop to clean up edges, improve clarity, fix problem areas, and keep the result as close to Factorio’s original art style as possible.
+
+The goal is not to make the game look like a different art style. The goal is to use AI as a tool, then hand-polish the results so the textures look cleaner, sharper, and better in-game while still feeling like vanilla Factorio.
 
 ### Why is this separate from other Real HD packs?
 
