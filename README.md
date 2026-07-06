@@ -5,8 +5,6 @@
 [![License GPLv3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Support](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/camgrieve11)
 
-![Real HD Decorative Base Game Banner](https://raw.githubusercontent.com/SquishyPoos1870/LOGO/main/Real%20HD%20-%20Base%20Game%20-%20Decorative.png)
-
 # 🌿 Real HD Decorative Base Game
 
 ![Real HD Decorative Base Game Banner](https://raw.githubusercontent.com/SquishyPoos1870/LOGO/main/Real%20HD%20-%20Base%20Game%20-%20Decorative.png)
