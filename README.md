@@ -1,9 +1,13 @@
 [![Factorio 2.1](https://img.shields.io/badge/Factorio-2.1%20Ready-orange?style=flat-square)](https://factorio.com/)
 [![Mod Version](https://img.shields.io/factorio-mod-portal/v/Real_HD_Decorative?label=Version&style=flat-square&color=2ea44f)](https://mods.factorio.com/mod/Real_HD_Decorative)
 [![Downloads](https://img.shields.io/factorio-mod-portal/dt/Real_HD_Decorative?label=Downloads&style=flat-square&color=brightgreen)](https://mods.factorio.com/mod/Real_HD_Decorative)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/SquishyPoos1870)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/SquishyPoos1870/Real-HD-Decorative-Base-Game)
 [![License GPLv3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Support](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/camgrieve11)
+
+![Real HD Decorative Base Game Banner](https://raw.githubusercontent.com/SquishyPoos1870/LOGO/main/Real%20HD%20-%20Base%20Game%20-%20Decorative.png)
+
+# 🌿 Real HD Decorative Base Game
 
 ![Real HD Decorative Base Game Banner](https://raw.githubusercontent.com/SquishyPoos1870/LOGO/main/Real%20HD%20-%20Base%20Game%20-%20Decorative.png)
 
